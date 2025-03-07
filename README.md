@@ -13,14 +13,17 @@ an old-school terminal look with a black background and white text.
   automatically creates a markdown entry based on the active tab's title and
   URL (without including a date).
 <br>
+
 - **Local File Update and Git Commit:**  The extension sends the entry along
   with a user-specified absolute file path (e.g. `/absolute/path/to/README.md`)
   to a native messaging host that appends the entry to the file and performs
   `git add` and `git commit`.
 <br>
+
 - **Persistent Settings:**  The absolute file path is saved in localStorage and
   reloaded on future sessions.
 <br>
+
 - **Visual Status Feedback:**  Instead of disruptive pop-up alerts, the
   extension displays a status message in green (for success) or red (for
   errors) within its UI.
