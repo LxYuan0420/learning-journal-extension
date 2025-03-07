@@ -103,3 +103,13 @@ an old-school terminal look with a black background and white text.
   - Make sure the "allowed_origins" field includes your extension’s ID.
   - Restart Chrome after making changes.
 - Git Commit Issues: If there’s “nothing to commit” or other git-related messages, note that the native messaging host script is set to treat “nothing to commit” as a successful operation.
+
+## Screenshots
+
+Below is a screenshot of the Learning Journal Saver extension in action:
+
+![Learning Journal Saver](docs/extension-screenshot.png)
+
+
+![Git Log Example](docs/got-log-screenshot.png)
+
