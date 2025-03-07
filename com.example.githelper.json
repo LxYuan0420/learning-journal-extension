@@ -1,9 +1,9 @@
 {
   "name": "com.example.githelper",
   "description": "Local Git Helper for Learning Journal Saver",
-  "path": "<absolute path to native_git.py>",
+  "path": "/Users/your-personal-directory/learning-journal-extension/native_git.py",
   "type": "stdio",
   "allowed_origins": [
-    "chrome-extension://<chrome extension id>"
+    "chrome-extension://<abc-123-your-chrome-id here>/"
   ]
 }
