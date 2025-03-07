@@ -111,5 +111,5 @@ Below is a screenshot of the Learning Journal Saver extension in action:
 ![Learning Journal Saver](docs/extension-screenshot.png)
 
 
-![Git Log Example](docs/got-log-screenshot.png)
+![Git Log Example](docs/git-log-screenshot.png)
 
