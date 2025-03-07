@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Learning Journal Saver",
+  "version": "1.0",
+  "description": "Generate markdown entries for your Learning Journal and update your local file with a git commit",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "clipboardWrite",
+    "nativeMessaging"
+  ]
+}
